@@ -1,0 +1,29 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(80deg, #000000, #ccccccc0);
+}
+.second-div {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.no-outline {
+    outline: none;
+    border: none;
+}
+.fontsize {
+    font-size: 13px;
+}
+.no-outline {
+    resize: none;
+}
+button:hover {
+    color: #000000;
+    background-color: white;
+}
